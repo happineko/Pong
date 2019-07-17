@@ -1,0 +1,4 @@
+Suivi du cours Ready Maker
+
+Suite a des problèmes sur ready maker (les apparences ne chargent pas de mon coté laissant un "r" en guise de model) je n'ai pas pu continuer ce cours
+Je cherche encore un moyen de regler le problème
